@@ -5,7 +5,7 @@ In this project, I used mapkit, coredata and tableView to create a map diary app
 <h1>Some of the features I learned:</h1>
 <p>-MapKit</p>
 <p>-Create a map pin</p>
-<p>-Open Maps with our application</p>
+<p>-Open Maps from our application</p>
 
 ![ornek resim](12-TravelBook/ss1.png)
 ![ornek resim](12-TravelBook/ss2.png)
